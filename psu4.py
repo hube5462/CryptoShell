@@ -1,3 +1,9 @@
+#Authors:		Aaron Huber and Jason Davison
+#University:	State University of New York at Fredonia
+#Date:			5/2015
+
+#The following is the python code that implements a shell that encrypts files by default
+
 import cmd
 import os
 from stat import *			#this library allows us to check file permissions
